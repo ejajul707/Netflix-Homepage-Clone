@@ -256,10 +256,10 @@ input[type="radio"]{
     }
     .email-su {
          font-size: 12px;
-         padding: 10px 15px;
+         padding: 10px 11px;
     }
     .email-su button{
-        font-size: 12px;
+         font-size: 12px;
          padding: 15px 15px;
          border-radius: 3px;
     }
@@ -300,6 +300,4 @@ input[type="radio"]{
         height: 45px;
         border-radius: 3px;
     }
-    
-    
 }
