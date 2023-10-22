@@ -291,4 +291,15 @@ input[type="radio"]{
     label::after{
           font-size: 22px;
     }
+    .faq input{
+        border-radius: 3px;
+    }
+    .faq button{
+        padding: 9px;
+        font-size: 9px;
+        height: 45px;
+        border-radius: 3px;
+    }
+    
+    
 }
